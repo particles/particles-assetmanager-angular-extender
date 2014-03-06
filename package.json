@@ -1,0 +1,32 @@
+{
+  "name": "particles-assetmanager-angular-extender",
+  "description": "Angular-extender module for the Particles asset manager",
+  "version": "0.3.0",
+  "homepage": "https://github.com/particles/particles-assetmanager-angular-extender",
+  "author": {
+    "name": "Mario Casciaro"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/particles/particles-assetmanager-angular-extender.git"
+  },
+  "bugs": {
+    "url": "https://github.com/particles/particles-assetmanager-angular-extender/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/particles/particles-assetmanager-angular-extender/blob/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "gulp-angular-extender": "~0.1.0",
+    "gulp-filter": "~0.3.0",
+    "gulp-util": "~2.2.14",
+    "lodash.compact": "~2.4.1",
+    "lodash.uniq": "~2.4.1",
+    "lodash.flatten": "~2.4.1",
+    "glob": "~3.2.8"
+  },
+  "peerDependencies": {}
+}
